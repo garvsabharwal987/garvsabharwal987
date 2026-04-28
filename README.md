@@ -6,8 +6,9 @@ Email Me 👉 ✉️ **garvsabharwal19@gmail.com** For Collaboration/Project or
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/garvsabharwal987) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Garv Sabharwal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:garvsabharwal19@gmail.com) 
-
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/garvsabharwal987) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/garv-sabharwal) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:garvsabharwal19@gmail.com)
 <!-- Snake Game Repo View -->
 
 <div align="center">
